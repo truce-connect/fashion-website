@@ -1,0 +1,28 @@
+.logo-img{
+    width: 50px;
+    border-radius: 50%;
+     
+}
+.logo-name{
+    color: brown;
+    font-size: 0.8rem;
+}
+.navi{
+    color: brown;
+    margin-left: 500px;
+}
+.shop-bag{
+    color: brown;
+    font-size:1.5rem ;
+}
+.person{
+    color: brown;
+    font-size:1.5rem ;
+
+}
+.home{
+    color:brown;
+}
+#home{
+    color:brown; 
+}
