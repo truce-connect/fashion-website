@@ -1,0 +1,41 @@
+.section2{
+  display: flex;
+    margin-left :80px;
+    margin-top:40px;
+}
+.sectimg{
+    width: 520px;
+    height: 300px;
+}
+.sectim{
+    width: 420px;
+    height: 300px;
+     margin-left: 200px;
+}
+ 
+.cap-b{
+  margin-left: -300px;
+   background: none;
+   border: none;
+   color :brown;
+   font-size:3.5rem;
+   text-align:center;
+   font-style:arial;
+
+}
+.cap-b:hover{
+  background:brown;
+  color:white;
+   
+}
+.cap-btn{
+  margin-left: -350px;
+  background: none;
+   border: none;
+   color :brown;
+    font-size: 3rem;
+}
+.cap-btn:hover{
+  background:brown;
+  color:white;
+}
